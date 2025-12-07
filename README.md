@@ -1,8 +1,8 @@
 # Statistics Capstone
-Esse projeto tem como objetivo abranger os conhecimentos aprendidos na matéria de estatistica e botá-los em pratica.
 
-## Dataset utilizado
-A amostra de dados que estamos utilizando contém dados sobre o ENEM de 2015, tanto dos participantes quanto de suas notas
-- Acesse o [kaggle aqui](https://www.kaggle.com/datasets/salomaoalves/enem-score)
+This repository contains analysis and exercises from a statistics capstone project using ENEM 2015 data. The goal is to apply statistical methods and produce reproducible analyses and visualizations.
 
-Análises de variáveis:
+## Dataset
+The sample dataset is ENEM 2015 (participants and scores).
+- Source: https://www.kaggle.com/datasets/salomaoalves/enem-score
+
